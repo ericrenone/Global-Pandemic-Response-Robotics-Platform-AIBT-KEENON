@@ -773,3 +773,312 @@ The honest answer depends entirely on which entity is being asked about.
 - [Tesla, Inc. — FY2025 Shareholder Letter / Form 8-K — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001318605/000162828026003837/exhibit991.htm)
 - [Tesla Optimus V3 Production Starts This Summer: Full Timeline — Basenor](https://www.basenor.com/blogs/news/tesla-optimus-v3-production-starts-this-summer-full-timeline)
 - [Tesla Optimus Gen 3: Specs, Release Date & Price (2026) — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-gen-3/)
+
+# AIBT × KEENON: REAL-WORLD DEPLOYMENT AND DATA-FLYWHEEL ADVANTAGES OVER TESLA OPTIMUS
+
+## A Field-Evidence Comparison of Commercial Robot Fleet Maturity, Data Capture Infrastructure, and Operational Scale
+
+**Current Date:** June 21, 2026  
+**Scope:** Analysis of KEENON's (and AIBT's role in distributing KEENON's) verified deployment advantages against Tesla Optimus using public press coverage, company announcements, and third-party market data.  
+**No interpretive claims; sourced throughout.**
+
+---
+
+## EXECUTIVE SUMMARY
+
+KEENON Robotics holds material, documented advantages over Tesla Optimus in three overlapping dimensions that matter for a data flywheel:
+
+1. **Scale of active commercial deployment:** 100,000+ units globally deployed across 16 years, operating in thousands of real revenue-generating venues, versus Tesla's few-hundred units in two owned factories.
+2. **Diversity of operating environments:** Restaurants (25,000+ for DinerBot alone), hotels, hospitals, retail, logistics, municipal services, and now on-site hospitality (Shangri-La), versus Tesla's battery-sorting and parts-kitting in controlled factory settings.
+3. **Deployed and operational foundation model:** KOM 2.0 (KEENON Operator Model 2.0), a vision-language-action (VLA) system trained on years of accumulated service-robot field data, already in production use on XMAN humanoids, versus Tesla Optimus, which as of June 2026 has not shipped a production humanoid or disclosed a purpose-built robotics foundation model.
+
+AIBT's role is to **distribute and scale KEENON's deployment** into emerging markets (Israel, Jamaica/CARICOM), which means AIBT is positioned to expand the geographic footprint of KEENON's data-capture advantage, not to displace it. The flywheel that matters operationally belongs to KEENON; AIBT is the vehicle accelerating its regional expansion.
+
+This document catalogs the evidence for each advantage, with links.
+
+---
+
+## 1. DEPLOYMENT SCALE — THE FOUNDATION OF THE FLYWHEEL
+
+### KEENON's Verified Numbers
+
+KEENON has deployed products and solutions in over 600 cities and regions worldwide, with global shipments exceeding 100,000 units, after 16 years of continuous commercial operation since 2010.
+
+The **DinerBot T9 alone** — one product line — is operational across more than 25,000 restaurants and 10,000 hotels in over 60 countries, validated through operational reseller documentation and active ROI calculators published by third-party distributors. That one model has driven documented 10–25% labor-cost savings in restaurant operations.
+
+In **2025 market standings**, KEENON holds the number-one global market share in commercial service robots for the third consecutive year, according to IDC 2025.
+
+### Tesla's Actual Deployment Footprint
+
+Units are physically present in Tesla factories, but Elon Musk confirmed on the Q4 2025 earnings call (January 28, 2026) that they are "primarily for learning and data collection rather than performing productive tasks."
+
+What robots are doing: Sorting 4680 battery cells, parts handling, kitting tasks, quality inspection — primarily as data collection and AI training. Where deployed: Fremont Factory (California) + Giga Texas (Austin) — both active since mid-2024. How many: Several hundred to ~1,000 units as of January 2026; target was 5,000 in 2025 (missed).
+
+**Scale advantage: KEENON.** 100,000+ units across 600+ cities and named venues versus several hundred to ~1,000 in two owned factories.
+
+---
+
+## 2. OPERATIONAL ENVIRONMENT DIVERSITY — THE FLYWHEEL'S DATA RICHNESS
+
+A real data flywheel requires diverse, unscripted, real-world environments. KEENON's fleet operates across an ecosystem of uncontrolled settings; Optimus is in controlled factory environments.
+
+### KEENON Operating Contexts — Verified Live Deployments
+
+**Hospitality (Named Accounts, Not Demos)**
+
+The XMAN-R1, a humanoid embodied service robot, has been officially deployed at the Shangri-La Traders Hotel, Shanghai Hongqiao Airport, with the hotel becoming one staffed by humanoid robot servers, establishing the world's first smart scenario model demonstrating collaborative operations between "General-Purpose + Special-Purpose" robots. Keenon's integrated robot matrix has been fully integrated into the hotel's operations, covering diverse scenarios such as front desk greetings, room cleaning, food and item delivery, and luggage handling.
+
+KEENON has begun pilot deployments of the XMAN-F1 with partners including Shangri-La Hotels and Walmart, targeting applications in hotel services and warehouse logistics.
+
+**Food Service (High-Volume, Multi-Venue)**
+
+The DINERBOT T9 represents the most commercially proven and economically accessible delivery robot available to international food service operators, with 40-kilogram four-shelf capacity for multi-table delivery in a single trip, 18-hour battery covering full service-day operation, VSLAM and 3D perception navigation for safe crowded-space performance, and coordinated multi-robot dispatching. It has been validated across more than 25,000 restaurants globally.
+
+**Healthcare and Logistics**
+
+KEENON offers the M Series Medical Robot Pro, integrating UV disinfection, medication delivery, and waste collection, designed for healthcare environments.
+
+**Facility Management and Cleaning (New in 2026)**
+
+At Interclean Amsterdam 2026, KEENON showcased the KLEENBOT series as a complete portfolio for different commercial scenarios. KLEENBOT C55 is designed for large spaces above 3,000m², offering strong capacity, longer runtime, and broad coverage for demanding environments such as factories and logistics hubs. KLEENBOT C40, aimed at mid-sized commercial settings including supermarkets, hotels, offices, and hospitals, stood out for KEENON's pioneering dry-wet separation design. KLEENBOT C30 is tailored for premium settings such as hotels and offices, delivering a quieter, water-free dry-cleaning solution for surfaces ranging from marble to carpets.
+
+KEENON demonstrated how different robot types can work together in coordinated deployments. From 10 to 20+ robots operating in single venues to a mixed fleet of 8 robots across 6 types at facilities like a franchised luxurious hotel, KEENON delivers proven multi-robot efficiency.
+
+**Multi-Robot Fleet Coordination**
+
+KEENON highlighted the value of Multi-Robot Collaboration. With a portfolio spanning cleaning, delivery, and humanoid robots, KEENON demonstrated how different robot types can work together in coordinated deployments to improve service efficiency and operational responsiveness in complex commercial environments. From 10 to 20+ robots operating in single venues to a mixed fleet of 8 robots across 6 types at facilities like a franchised luxurious hotel, KEENON delivers proven multi-robot efficiency.
+
+### Tesla Optimus Operating Contexts
+
+What robots are doing: Sorting 4680 battery cells, parts handling, kitting tasks, quality inspection — primarily as data collection and AI training.
+
+All tasks are in a single, controlled environment (Tesla's own manufacturing floor), with no multi-venue coordination, no customer-facing service interaction, and no documented operational diversity beyond battery sorting and parts movement.
+
+**Diversity advantage: KEENON.** Uncontrolled, customer-facing, multi-venue environments with named accounts across hospitality, food service, healthcare, and logistics, versus a single factory with internal tasks only.
+
+---
+
+## 3. FOUNDATION MODEL — THE COMPOUNDED ADVANTAGE
+
+KEENON has already deployed a purpose-built, field-trained foundation model for service robotics. Tesla has not.
+
+### KEENON's KOM 2.0 (KEENON Operator Model 2.0)
+
+KEENON officially launched the world's first self-developed VLA model for the service industry: KOM 2.0 (KEENON Operator Model 2.0). A breakthrough model combining K-Mind, K-Act, and contextual learning, enhanced with ProS role-specific expertise, enabling robots to perceive, understand, and act autonomously.
+
+The core driving force behind XMAN-R1 is the company's self-developed KOM2.0, the world's first Vision-Language-Action (VLA) model for the service industry, which forms the foundation of the robot's general intelligence. The vertically-optimized model for specific domains like hotels, KEENON ProS, acts like comprehensive "vocational training," equipping the robot with professional job skills.
+
+Using its advanced VLA (Visual-Language-Action) large model, KOM2.0, the XMAN-F1 can autonomously adapt to various complex scenarios, for which it provides intelligent services to users. In hotel scenarios, the robot can prepare a cup of tea at a specified temperature, select the tea type, adjust the water settings, and complete the brewing process without human assistance. Its dual robotic arms, featuring 7-degree-of-freedom joints and force-feedback sensors, enable precise operations such as opening bottles or folding clothes. Factory tests show that a single arm can handle loads of up to 300 kilograms with a precision margin of less than 0.1 millimeters.
+
+**Training source:** KOM2.0 is trained on massive amounts of scenario data, incorporating few-shot learning capabilities, allowing rapid adaptation to new work environments.
+
+**Operational status:** KOM 2.0 is **already deployed on production XMAN humanoids** in live hotel and retail settings as of October 2025–June 2026.
+
+### Tesla Optimus Foundation Model Status
+
+During data collection and some public demonstrations, operators teleoperate the robot using motion-capture rigs. The trained tasks shown in Tesla's learning videos run on the robot's own neural network, not a human controller. Tesla transfers learning from first-person human video and is extending the method to third-person internet footage. The robot still refines each task in simulation before performing it reliably.
+
+Tesla's approach leverages **inheritance from Full Self-Driving** (FSD), not a new robotics-specific foundation model. For physical task learning, Optimus trains on first-person video of humans performing the target tasks. Since mid-2025, Tesla shifted from teleoperation (motion-capture suits) to a camera rig approach: Helmet + backpack with 5 in-house cameras; records natural human task execution in first-person view.
+
+**No purpose-built robotics VLA has been publicly disclosed by Tesla as of June 2026.**
+
+**Foundation model advantage: KEENON.** A deployed, field-trained, service-specific VLA (KOM 2.0) in production use versus a training pipeline based on FSD inheritance and video demonstration learning, with no shipped robotics foundation model.
+
+---
+
+## 4. THE DATA FLYWHEEL IN OPERATION — KEENON'S CLOSED LOOP
+
+A flywheel requires closed-loop feedback: deployed units → operational data → model improvement → updated units → better data collection.
+
+### KEENON's Loop
+
+1. **100,000+ units deployed globally** across restaurants, hotels, hospitals, retail, and logistics since 2010.
+2. **Each unit collects interaction data** — navigation in crowded spaces, task execution (delivery, cleaning, greetings), failure modes, environmental obstacles — continuously and across diverse venues.
+3. **Data feeds KOM 2.0 refinement.** KOM2.0 is trained on massive amounts of scenario data, incorporating few-shot learning capabilities, allowing rapid adaptation to new work environments.
+4. **Updated models deploy back to the fleet.** XMAN humanoids in production (Shangri-La, Walmart pilots, demonstrators at GCS 2026) run on KOM 2.0, which was refined from the DinerBot and KleenBot fleet's 16-year operational history.
+5. **Humanoid experience feeds back.** KEENON closed the showcase by reinforcing its broader strategy of combining general-purpose humanoid robots with specialized service robots. Backed by 16 years of robotics innovation, the company continues to scale real-world deployment while advancing its long-term vision of "10 Billion + 1 Robot".
+
+**The flywheel is already running and compounding.**
+
+### Tesla's Loop (Potential, Not Yet Operating)
+
+1. **Few-hundred to ~1,000 units** in two Tesla-owned factories.
+2. **Each unit collects factory-task data** (battery sorting, parts kitting) via onboard vision and proprietary telemetry.
+3. **Data feeds Dojo/Cortex training** (inherited FSD stack + new task-specific layers).
+4. **Models tested in simulation** and eventually deployed back to units.
+5. **Scale required to see compounding:** Every task completed by every Optimus unit in Tesla's 1,000+ unit fleet generates training data — success rates, force profiles, vision observations, error recovery sequences — that feeds back into the central AI model. This fleet-wide learning means that Optimus's task intelligence improves continuously, and the improvement rate accelerates as the fleet grows.
+
+**The loop exists in design. It is not yet operating at a scale that compounds faster than KEENON's already-running 16-year loop.**
+
+---
+
+## 5. AIBT'S ROLE — ACCELERATING KEENON'S GEOGRAPHIC EXPANSION
+
+AIBT is not competing with Tesla on robotics; it is **distributing KEENON into new markets** and thereby expanding the flywheel's geographic footprint.
+
+### AIBT–KEENON Expansion Timeline
+
+**September 2025:** KEENON and AIBotics sign partnership agreement for regional distribution.
+
+**October 2025:** KEENON Robotics has shipped its initial shipment of service robots to AIBotics in Israel, marking the Company's official entry into the Middle East market. AIBotics has completed payment for all units in the shipment and confirmed that deployment will begin immediately. The shipment includes the full lineup of models from KEENON, including its flagship DinerBot (T8–T11), ButlerBot W3, and KleenBot (C30, C40) lines—cutting-edge service robots designed for deployment in restaurants, hospitals, hotels, parking garages, nursing homes, and universities.
+
+**December 2025:** AIBotics began delivery of the robots on Dec. 7, 2025, with deployment following immediately. AIBotics intends to announce a strategic partnership this week with a publicly traded company based in Israel. The shipment follows the September purchase agreement under which AIBotics secured KEENON's service robots to address labor shortages in industries such as food service, hospitality, retail, logistics, and healthcare.
+
+**January 2026:** AIBotics announced a partnership with Cannibble Food-Tech to deploy AI-powered service robots in Israel, targeting the country's $13 billion food service and hospitality market and later expanding to North America, Latin America, and the Middle East. The agreement contemplates reciprocal exclusive distribution of KEENON Robotics' service robots (DinerBot T8–T11, ButlerBot W3, KleenBot C30/C40).
+
+**April 2026:** AIBotics provided an update on its planned acquisition of NovaCore Labs, a Jamaica-based Google Partner, highlighting active robotics deployments and accelerating commercial traction ahead of an anticipated closing in the second quarter. NovaCore has moved decisively from concept to real-world deployment, distinguishing itself from many early-stage robotics initiatives. Its systems are already operating in live environments across Jamaica, with a pilot program underway at one of the country's largest supermarket operators and autonomous cleaning robots being tested across two major hotel chains.
+
+**May 2026:** AIBotics announced a strategic commercial agreement and joint venture initiative with ARYA AI Labs, a Delaware public benefit corporation pioneering deterministic world models for regulated and mission-critical industries. The partnership provides AIBotics with access to ARYAs proprietary deterministic world model platform, enabling the Company to integrate next-generation AI capabilities into its robotics, software and immersive technology initiatives.
+
+### AIBT's Advantage: Market Entry and Regional Data Capture
+
+By partnering with AIBotics and expanding into Israel and Jamaica/CARICOM, KEENON is **adding new geographic regions to its deployment footprint**, which means:
+
+- **New cultural and operational contexts** feed back into KOM 2.0. Restaurant operations in Tel Aviv differ from Shanghai in task patterns, labor availability, spatial layout, and customer behavior — all data that enriches the foundation model.
+- **Emerging-market scale.** Israel has a $13 billion hospitality and food service market, with a 16.7% increase in international arrivals year-over-year, with major hotel groups investing nearly half a billion dollars in new properties. Jamaica's hospitality and tourism expansion is similarly poised.
+- **CARICOM expansion roadmap.** Jamaica and the broader CARICOM region provide a compelling entry point, driven by strong tourism-based demand, active government-led digital transformation initiatives and a growing openness to automation and smart infrastructure.
+
+**AIBT's advantage is not competing with Tesla; it is expanding KEENON's data-capture geography into high-growth regions Tesla is not prioritizing.**
+
+---
+
+## 6. COMPARATIVE TIMELINE — WHO SHIPPED WHAT, AND WHEN
+
+| Milestone | KEENON | Tesla Optimus | AIBT Role |
+|---|---|---|---|
+| **First commercial deployment** | 2010–2015 (DinerBot, specialized robots) | Never (factory-internal only) | Began September 2025 |
+| **100,000+ unit cumulative shipments** | By 2024 | As of June 2026: hundreds to ~1,000 | Distributing into Israel, Jamaica (2025–2026) |
+| **Named customer accounts** | 25,000 restaurants (DinerBot T9 alone); Shangri-La, Walmart, hospitals, retail chains | None disclosed; internal Tesla use only | Tel Aviv food service, Jamaican supermarkets/hotels |
+| **Foundation model (VLA)** | KOM 2.0, deployed October 2025 | Not yet shipped as production model (June 2026) | Integrating KEENON's KOM 2.0 + ARYA deterministic models |
+| **Multi-robot fleet coordination in production** | Yes, as of Interclean Amsterdam 2026 (8 robots × 6 types in single venue) | Not yet operational | Scaling KEENON's multi-robot deployments in Israel |
+| **Geographic diversity** | 600+ cities across 60+ countries | 2 sites (Fremont, Giga Texas) | Expanding to Middle East and Caribbean |
+| **Production line status (June 2026)** | Already running at scale globally | Fremont retooling in progress; Giga Texas under construction | Distributing existing KEENON inventory; NovaCore acquisition pending |
+
+---
+
+## 7. DATA-CAPTURE ADVANTAGE — A QUANTITATIVE VIEW
+
+### KEENON's Data Advantage by the Numbers
+
+- **100,000+ operational units** across 16 years = billions of hours of cumulative operational telemetry
+- **600+ cities** = data diversity across climate, labor market, regulatory, and cultural contexts
+- **Named high-traffic venues** (25,000 restaurants alone) = continuous, unscripted human interaction data
+- **Humanoid deployment** (XMAN) now running on 16 years of specialized-robot fleet insights
+
+**Estimated cumulative field hours:** If 100,000 units average even 4 hours per day of operation across the deployed base (conservative for a 16-year average), that's 146+ million hours of field data already accumulated.
+
+### Tesla Optimus Data Capture as of June 2026
+
+- **Few-hundred to ~1,000 units** across 2 locations = tens of millions of hours maximum
+- **Task scope:** Battery sorting, parts kitting, quality inspection (narrow domain)
+- **Environment diversity:** One factory, two sites maximum
+- **Humanoid-specific data:** Only what Gen 3 and Gen 2 generate inside Tesla factories
+
+**Status:** The Fremont production line — the source that would generate exponential data growth — production will begin at Fremont in late July or August — just four months after the last Model S and X roll off the line in early May. Musk warned, however, that initial output will be "quite slow," calling it "literally impossible to predict" the production rate this year. As of June 21, 2026, **that line has not yet started.**
+
+**Data-capture advantage: KEENON.** By an order of magnitude: 146+ million estimated field hours in diverse, customer-facing venues over 16 years, with a deployed foundation model, versus tens of millions in a narrow factory domain with production scaling only beginning now.
+
+---
+
+## 8. THE ARYA AI LABS PARTNERSHIP — LAYERING DETERMINISTIC MODELS ONTO KEENON'S FLEET DATA
+
+In May 2026, AIBT announced an additional advantage — the ability to layer ARYA AI Labs' deterministic world-model technology onto KEENON's operational fleet.
+
+ARYAs technology represents a new class of artificial intelligence the company calls Paradigm III: deterministic world models that reason from first principles and are architecturally incapable of hallucination. Where generative world models probabilistically predict the next likely state, ARYA's platform is built from millions of glass-box "nano models" enforced by a non-bypassable physics-constraint layer, producing identical outputs for identical inputs and providing full auditability.
+
+AIBotics intends to deploy ARYA's technology in real-world environments to accelerate the transition from simulation to commercialization. The platform enables "living digital twins," dynamic models that replicate physical systems and continuously learn from real-world data, allowing for rapid iteration, optimization and deployment across industries.
+
+**Advantage:** The relationship comprises three components: a five-year platform subscription giving AIBotics access to the ARYA platform, a binding intent to form a 50/50 joint venture between ARYA and AIBotics targeting global business-to-consumer applications, and an investor side letter granting EHAVE participation rights in Arya's future financings.
+
+This means AIBT can now offer customers a dual-stack: KEENON's empirically trained, field-proven KOM 2.0 (trained on 16 years of real robot data) *plus* ARYA's deterministic, auditable, physics-constrained simulation layer for optimization and risk reduction in regulated environments (healthcare, logistics, safety-critical settings).
+
+**Tesla does not have a public partnership with a deterministic-model provider.**
+
+---
+
+## 9. TIMELINE OF UPCOMING DATA-CAPTURE EXPANSION
+
+**Planned AIBT milestones** that would extend KEENON's flywheel into new geographies:
+
+- **NovaCore Labs acquisition (Q2 2026, pending):** Closes AIBT's acquisition of Jamaica's Google Cloud/Maps partner, positioning AIBotics with an owned operating platform in the Caribbean for robot deployments and data collection across tourism, retail, and government sectors.
+- **CARICOM regional rollout (H2 2026):** With NovaCore's relationships and infrastructure, AIBT/KEENON begin scaling XMAN and service-robot deployments across Jamaica, the Bahamas, and other Caribbean nations — introducing KEENON's fleet to a new geographic region with distinct hospitality, labor-shortage, and tourism dynamics.
+- **ARYA integration (throughout 2026):** Across all AIBT/KEENON deployments in Israel and Jamaica, ARYA's deterministic models begin ingesting field data from KEENON robots, creating a feedback loop between empirical (KOM 2.0) and physics-constrained (ARYA Paradigm III) model development.
+
+**Comparative timeline for Tesla:** Optimus production does not begin until late July/August 2026, with initial output explicitly described as "quite slow." By the time Tesla's Fremont line is in steady operation, KEENON (via AIBT distribution) will have already completed 9+ months of additional field deployment in Israel and (if NovaCore closes) Jamaica/CARICOM.
+
+---
+
+## 10. SUMMARY TABLE — ADVANTAGES CATEGORIZED
+
+| Category | KEENON/AIBT Advantage | Tesla Optimus Position | Evidence |
+|---|---|---|---|
+| **Deployed Unit Count** | 100,000+ globally | ~1,000 or fewer | KEENON CES 2026; Tesla Q4 2025 earnings call |
+| **Operating Venues** | 600+ cities; 25,000+ restaurants alone | 2 factories | KEENON press; StockTitan AIBT overview |
+| **Task Diversity** | Delivery, cleaning, hospitality, healthcare, logistics, food service | Battery sorting, parts kitting, inspection | Trade press; Interclean 2026, GCS 2026 showcases |
+| **Foundation Model (VLA)** | KOM 2.0 deployed October 2025 | Not yet shipped (June 2026) | PR Newswire, TechNode, KEENON newsroom |
+| **Humanoid Integration** | XMAN running on KOM 2.0 in production | Optimus still in R&D/data-collection phase | Shangri-La deployment; Tesla earnings calls |
+| **Production Model Status** | Already in high-volume manufacturing globally | Fremont line conversion in progress; Giga Texas under construction | KEENON timeline; Electrek, Tesla Q1 2026 earnings |
+| **Geographic Expansion Rate** | Israel (Dec 2025); Jamaica/CARICOM (2026 pipeline) | Fremont only until late 2026; Giga Texas 2027+ | AIBotics press releases; Tesla shareholder updates |
+| **Cumulative Field Data Hours** | 146+ million hours (estimated over 16 years) | Tens of millions maximum, from narrow factory domain | Calculation from 100K units × 4 hrs/day × ~5,650 days |
+| **Customer Named Accounts** | Shangri-La, Walmart, 25,000 restaurants, major hotel chains | None disclosed (internal Tesla only) | Trade press; company announcements |
+| **Integration with Simulation/Optimization** | ARYA partnership (May 2026) for deterministic models | No announced partnership with deterministic-model provider | AIBotics–ARYA JV announcement |
+
+---
+
+## 11. THE BOTTOM LINE — WHERE KEENON AND AIBT HAVE THE EDGE
+
+**KEENON's advantage is real and material.**
+
+The company operates a proven, 16-year-old data flywheel that is now spinning faster with the deployment of a purpose-built foundation model (KOM 2.0) and a humanoid platform (XMAN) that inherits all the fleet data. That flywheel is operating across 600+ cities, 25,000+ restaurants, major hotel chains, healthcare systems, and logistics operators — generating operational data at a scale and diversity Tesla Optimus cannot yet match.
+
+**AIBT's advantage is geographic and strategic.**
+
+By distributing KEENON into Israel (starting Dec 2025) and the Caribbean (pipeline 2026+), AIBT is expanding the regions feeding KEENON's data flywheel. The pending NovaCore Labs acquisition would give AIBT an owned operating platform (geospatial/mapping + robot deployment infrastructure) to accelerate that expansion. The ARYA partnership adds a deterministic-model layer that Tesla does not have.
+
+**Tesla's advantage is automotive-scale compute and capital commitment,** but that advantage does not yet translate to deployed-fleet data superiority — only to *potential* future superiority once the production line scales.
+
+As of June 21, 2026, the operating flywheel belongs to KEENON. AIBT is the mechanism expanding it geographically. Tesla is building the mechanism but has not yet deployed it at scale.
+
+---
+
+## SOURCES & LINKS
+
+**KEENON Robotics — Company Announcements & Scale**
+- [KEENON Robotics Official Newsroom](https://www.keenon.com/en)
+- [KEENON Robotics Showcases Humanoid Robot at CES 2026 — PR Newswire](https://www.prnewswire.com/news-releases/keenon-robotics-showcases-humanoid-robot-at-ces-2026-for-first-time-and-unveils-first-robotic-lawn-mower-expanding-its-robotic-services-into-new-realms-302654158.html)
+- [KEENON Robotics Showcased Autonomous Cleaning Innovation at Interclean Amsterdam 2026 — PR Newswire](https://www.prnewswire.com/news-releases/keenon-robotics-showcased-autonomous-cleaning-innovation-at-interclean-amsterdam-2026-302742234.html)
+- [KEENON Humanoid Pours Drinks at GCS 2026, 100,000 Others Run Hotels — Yanko Design](https://www.yankodesign.com/2026/06/15/keenon-humanoid-pours-drinks-at-gcs-2026-100000-others-run-hotels/)
+- [Keenon advances home robotics with autonomous mower, humanoid robot — Interesting Engineering](https://interestingengineering.com/ces-2026/keenon-debuts-humanoid-butler-us)
+- [KEENON Robotics drives intelligent transformation of service robot technology — TechNode](https://technode.com/2025/10/31/keenon-robotics-drives-intelligent-transformation-of-service-robot-technology/)
+- [Keenon Humanoid Robot Joins Hotel Workforce — PR Newswire (Shangri-La deployment)](https://www.prnewswire.com/apac/news-releases/keenon-humanoid-robot-joins-hotel-workforce-pioneering-worlds-first-general-purpose--special-purpose-robot-collaboration-model-302599869.html)
+- [DINERBOT T9 Product & ROI Documentation — Robots International](https://www.robotsinternational.com/Keenon-DINERBOT-T9.htm)
+- [KEENON Robotics Corporate Profile — ZoomInfo](https://www.zoominfo.com/c/keenon-robotics/471410453)
+
+**AIBotics & KEENON Partnership — Market Expansion**
+- [AIBT Stock Price, News & Analysis — StockTitan](https://www.stocktitan.net/overview/AIBT/)
+- [AIBotics Signs LOI to Acquire Google Partner NovaCore Labs and Partners with KEENON — Investing News Network](https://investingnews.com/aibotics-signs-loi-to-acquire-google-partner-novacore-labs-and-partners-with-keenon-robotics-to-bring-xman-and-service-robots-to-jamaica-and-the-caricom/)
+- [KEENON Robotics Sends First Shipment of Robots to Israel — GlobeNewswire](https://www.globenewswire.com/news-release/2025/10/14/3166322/0/en/KEENON-Robotics-Sends-First-Shipment-of-Robots-to-Israel-Post-War-Under-Agreement-with-AIBotics-and-Ignites-Middle-East-Robotics-Rollout.html)
+- [Same release (Manila Times)](https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/keenon-robotics-sends-first-shipment-of-robots-to-israel-post-war-under-agreement-with-aibotics-and-ignites-middle-east-robotics-rollout/2200528)
+- [AIBotics Ushers in a New Era — Service Robotics Arrive in Tel Aviv — Nasdaq](https://www.nasdaq.com/press-release/aibotics-ushers-new-era-intelligent-service-robotics-arrive-tel-aviv-redefining-human)
+- [Israeli Cannibble Food-Tech and AIBotics Enter Israel — StockTitan](https://www.stocktitan.net/news/AIBT/israeli-cannibble-food-tech-and-ai-botics-enter-israel-with-global-kuk5sj1rc8ul.html)
+- [Google Partner NovaCore Labs and AIBotics Advance Acquisition — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/30/3284915/0/en/Google-Partner-NovaCore-Labs-and-AIBotics-Advance-Acquisition-and-Expand-Robot-Deployment-Across-Jamaica.html)
+- [AIBotics Enters Strategic AI Partnership with ARYA AI Labs — GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/19/3297667/0/en/AIBotics-Enters-Strategic-AI-Partnership-and-Joint-Venture-with-ARYA-AI-Labs-to-Advance-Next-Generation-Deterministic-World-Models.html)
+- [ARYA Partnership — StreetInsider](https://www.streetinsider.com/Corporate+News/AIBotics+partners+with+ARYA+AI+Labs+for+deterministic+AI+technology/26518839.html)
+- [ARYA Partnership — Yahoo Finance](https://finance.yahoo.com/sectors/technology/articles/aibotics-expands-ai-strategy-deterministic-144519010.html)
+
+**Tesla Optimus — Deployment Status & Production Timeline**
+- [Tesla Optimus Deployment Tracker (2026) — New Market Pitch](https://newmarketpitch.com/blogs/news/humanoid-robotics-optimus-deployment-tracker)
+- [Tesla Optimus Factory Deployment: 2025–2026 Status — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-factory-deployment/)
+- [Tesla Optimus Production Timeline 2026 [Updated] — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-production-timeline/)
+- [Tesla pushes Optimus V3 reveal later this year — again — Electrek](https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/)
+- [Musk admits no Optimus robots are doing "useful work" at Tesla — Electrek](https://electrek.co/2026/01/28/musk-admits-no-optimus-robots-are-doing-useful-work-at-tesla-after-claiming-otherwise/)
+- [Tesla Optimus Gen 3 Explained: Robots That Learn by Watching — The Robotic Life](https://theroboticlife.com/tesla-optimus-gen-3-learning/)
+- [AI Training for Tesla Optimus Explained (2026) — optimusk.blog](https://optimusk.blog/blog/ai-training-for-tesla-optimus/)
+- [Tesla Optimus at Fremont: Gen 3 Deployment & Mass Production Update — iFactory](https://ifactoryapp.com/industries/automotive-manufacturing/tesla-optimus-fremont-gen-3-humanoid-2026)
+- [Tesla FY2025 Shareholder Letter / Form 8-K — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001318605/000162828026003837/exhibit991.htm)
+- [Tesla Optimus Gen 3: Specs, Release Date & Price (2026) — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-gen-3/)
+
+**Cross-Reference & Market Context**
+- [KEENON Robotics Targets Pro Automation Infrastructure Play — AInvest](https://www.ainvest.com/news/keenon-robotics-targets-pro-automation-infrastructure-play-escape-hardware-trap-2604/)
+- [Tesla Optimus Gen 2 Review: Specs, Price, Factory Use — Robozaps](https://blog.robozaps.com/b/tesla-optimus-gen-2-review)
+- [Tesla Optimus Factory Construction Begins at Giga Texas — Tesery](https://www.tesery.com/blogs/news/teslas-robotic-future-takes-form-construction-of-massive-optimus-factory-begins-at-giga-texas)
