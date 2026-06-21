@@ -579,3 +579,197 @@ The next 14 days (June 21-July 4) are critical inflection point. Immediate actio
 **Time Horizon:** 18 months (through December 2027)  
 **Risk Rating:** High (emerging epidemic, market disruption)  
 **Reward Rating:** Extreme (180,000-350,000% potential)
+
+# AIBT × KEENON vs. TESLA OPTIMUS — THE DATA-FLYWHEEL QUESTION
+
+### A sourced technical comparison of real-world deployment scale and data capture in service and humanoid robotics
+
+*Prepared June 21, 2026. Independent research notes compiled from public filings, company disclosures, and trade press. Not investment advice; not affiliated with AIBotics, Ehave, KEENON Robotics, NovaCore Labs, ARYA AI Labs, or Tesla.*
+
+---
+
+## Executive Summary
+
+The promotional narrative around AIBotics, Inc. (OTC: AIBT) treats AIBT, KEENON Robotics, and KEENON's humanoid line (XMAN) as a single bundle competing with Tesla Optimus on "real-world deployment" and data capture. The underlying facts support a more precise picture with three separate layers:
+
+1. **KEENON Robotics** (Shanghai, private, founded 2010) genuinely does have a large, multi-year, globally distributed real-world deployment base — over 100,000 commercial service-robot units across 60+ countries — and has already shipped a proprietary vision-language-action (VLA) foundation model, KOM 2.0, trained on accumulated field data. On the specific axis of *real-world commercial-environment data capture*, KEENON is materially ahead of Tesla Optimus, whose deployment as of mid-2026 remains confined to two of Tesla's own factories.
+2. **Tesla Optimus** has a coherent and technically serious data-flywheel design of its own — fleet self-play, inheritance from the Full Self-Driving (FSD) neural-network stack, Dojo/Cortex training compute, and a shift from teleoperation to first-person human video capture — but it is materially earlier-stage, has missed every public production target since 2022, and as of Tesla's own January 2026 earnings call had not yet, by Elon Musk's own account, put Optimus to "material" use inside its factories.
+3. **AIBotics, Inc. (AIBT)**, the publicly traded U.S. OTC stock named in the promotional materials, is neither KEENON nor the owner of KEENON's data or KOM 2.0 model. AIBT is a small, financially distressed regional distributor and aspiring acquirer that resells KEENON hardware into new markets (Israel, and a pending Jamaica/CARICOM push) and has disclosed no unit counts, telemetry, or proprietary data infrastructure of its own. Its SEC filings disclose going-concern doubt, negligible revenue, and a track record of slipping its own announced timelines.
+
+The "advantage" claim is therefore real at the manufacturer level (KEENON vs. Optimus) and not supportable at the ticker level (AIBT vs. Tesla). The rest of this document lays out the sourced evidence for each layer.
+
+---
+
+## 1. Three Entities, Not One — A Necessary Disambiguation
+
+Press coverage of this story routinely compresses four separate organizations into a single subject:
+
+| Entity | What it actually is | Relationship to "data flywheel" |
+|---|---|---|
+| **AIBotics, Inc.** (OTC: AIBT) | A U.S. micro-cap subsidiary of Ehave, Inc. (OTC: EHVVF); flagship product is the Phill Robot™, an AI-powered massage device | Distributor/integrator of third-party hardware; discloses no proprietary fleet data |
+| **KEENON Robotics Co., Ltd.** | A private Shanghai manufacturer founded in 2010; the actual builder of DinerBot, ButlerBot, KleenBot, KEENMOW, and the XMAN humanoid line | Owns the fleet, the deployment history, and the KOM 2.0 foundation model |
+| **NovaCore Labs** | A Jamaica-based digital-transformation firm (Google Cloud/Maps partner) that AIBotics has a non-binding letter of intent to acquire | Geospatial/mapping and immersive-tech capability, unrelated to robot fleet data |
+| **ARYA AI Labs, PBC** | A Delaware public-benefit corporation selling a "deterministic world model" platform, partnered with AIBotics in May 2026 | A simulation/digital-twin technology layer, separate from KEENON's robotics stack |
+
+Evaluating "AIBT and KEENON's data-flywheel advantage" requires keeping these separate, because the entity that actually accumulates real-world robot interaction data — KEENON — is not the entity whose stock the promotional story is built around.
+
+---
+
+## 2. AIBotics, Inc. (AIBT) — Corporate and Financial Profile
+
+AIBotics describes itself as a developer and integrator of AI- and robotics-enhanced technologies, a subsidiary of Ehave, Inc., positioned across personal robotics, wellness, healthcare, and hospitality service automation, per its [StockTitan company overview](https://www.stocktitan.net/overview/AIBT/). Its actual *manufactured* product is the **Phill Robot™**, an AI-powered massage robot with a patented 35-inch foldable arm and IoT integration, alongside a smart-refrigerator concept called **Milkyway**. Parent company Ehave has a documented prior history as a digital-therapeutics company in the psychedelics and mental-health space, including a 2021 data-collaboration announcement with Silo Wellness around psilocybin research — context worth noting given the company's subsequent pivot into robotics and AI branding.
+
+**Financial condition (as reported via SEC filings and aggregated by StockTitan):**
+
+- Market capitalization: **$682.0K**; share price **$0.0008**; down **92.73%** over the trailing 12 months
+- Shares outstanding: **682.0 million**
+- Revenue (TTM): **$2.2K**
+- Net income (TTM): **-$2.2 million** (FY2025 net loss of **$2,215,751** per the 10-K filed April 15, 2026)
+- Operating cash flow: **-$458K**
+- Current ratio: **0.06** (severe short-term liquidity strain)
+- Piotroski F-Score: **3/9**
+- Q3 2025 10-Q (per [StockTitan's coverage](https://www.stocktitan.net/news/AIBT/israeli-cannibble-food-tech-and-ai-botics-enter-israel-with-global-kuk5sj1rc8ul.html)): no revenue, a net loss of $529,921, and a working-capital deficit of $4,661,176
+- AIBT has filed an **NT 10-Q** (late-filing notice) and an **NT 10-K** within the past year, and its 10-K and 10-Q disclosures explicitly raise **going-concern risk** amid heavy losses and share dilution
+
+All of this is sourced from the [StockTitan AIBT overview page](https://www.stocktitan.net/overview/AIBT/), which classifies AIBT under the Leisure industry within Consumer Cyclical, not as a robotics-sector company, reflecting the company's actual revenue composition (massage-robot sales, not robot-fleet licensing).
+
+---
+
+## 3. The AIBT–KEENON Commercial Relationship — A Timeline
+
+| Date | Event | Source |
+|---|---|---|
+| Sept 29, 2025 | KEENON signs a partnership agreement with AIBotics for regional distribution | [GlobeNewswire / Manila Times](https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/keenon-robotics-sends-first-shipment-of-robots-to-israel-post-war-under-agreement-with-aibotics-and-ignites-middle-east-robotics-rollout/2200528) |
+| Oct 14, 2025 | KEENON ships an initial, unquantified shipment of DinerBot (T8–T11), ButlerBot W3, and KleenBot (C30/C40) units to AIBotics in Israel | [GlobeNewswire](https://www.globenewswire.com/news-release/2025/10/14/3166322/0/en/KEENON-Robotics-Sends-First-Shipment-of-Robots-to-Israel-Post-War-Under-Agreement-with-AIBotics-and-Ignites-Middle-East-Robotics-Rollout.html) |
+| Oct 23, 2025 | AIBotics signs a non-binding **Letter of Intent** to acquire NovaCore Labs; target close "before the end of 2025" | [Investing News Network](https://investingnews.com/aibotics-signs-loi-to-acquire-google-partner-novacore-labs-and-partners-with-keenon-robotics-to-bring-xman-and-service-robots-to-jamaica-and-the-caricom/) |
+| Dec 7–8, 2025 | First robots physically arrive and deployment begins in Tel Aviv | [GlobeNewswire / Nasdaq](https://www.nasdaq.com/press-release/aibotics-ushers-new-era-intelligent-service-robotics-arrive-tel-aviv-redefining-human) |
+| Jan 2026 | AIBotics and KEENON exhibit jointly at CES 2026 | [StockTitan](https://www.stocktitan.net/news/AIBT/israeli-cannibble-food-tech-and-ai-botics-enter-israel-with-global-kuk5sj1rc8ul.html) |
+| Jan 23, 2026 | Reciprocal distribution agreement with Cannibble Food-Tech to deploy KEENON robots in Israel's food-service market | [StockTitan](https://www.stocktitan.net/news/AIBT/israeli-cannibble-food-tech-and-ai-botics-enter-israel-with-global-kuk5sj1rc8ul.html) |
+| Apr 27, 2026 | 3DX Industries commits to Phill™ production | [StockTitan](https://www.stocktitan.net/overview/AIBT/) |
+| Apr 30, 2026 | NovaCore acquisition update: close target slips to **Q2 2026**; AIBT cites active NovaCore pilots in Jamaican supermarkets and two hotel chains, but discloses no financial terms | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/30/3284915/0/en/Google-Partner-NovaCore-Labs-and-AIBotics-Advance-Acquisition-and-Expand-Robot-Deployment-Across-Jamaica.html) |
+| May 8, 2026 | NovaCore founder Gregory Moore confirms to the *Jamaica Observer* that the deal is "not yet sealed," and that talks were paused by Hurricane Melissa | [Jamaica Observer](https://www.jamaicaobserver.com/2026/05/08/novacore-labs-acquisition-talks/) |
+| May 19, 2026 | AIBotics announces a separate strategic agreement and planned 50/50 joint venture with ARYA AI Labs around "deterministic world models" — a distinct technology stack from KEENON's | [GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/19/3297667/0/en/AIBotics-Enters-Strategic-AI-Partnership-and-Joint-Venture-with-ARYA-AI-Labs-to-Advance-Next-Generation-Deterministic-World-Models.html) |
+
+**What is conspicuously absent across this entire timeline:** AIBT has not, in any release, disclosed the number of robot units shipped, deployed, or active in Israel or Jamaica; uptime, task-completion, or customer-interaction telemetry from any deployment; or any technical description of a proprietary data pipeline that would feed a model AIBT itself owns. The NovaCore acquisition — the deal that would have given AIBT an owned operating platform in the region — has slipped one full quarter past its original target and remains unclosed as of the most recent public update.
+
+---
+
+## 4. KEENON Robotics — Where the Actual Data Flywheel Lives
+
+KEENON, founded in 2010 in Shanghai, is the manufacturer AIBotics distributes for, and it is the entity that possesses a genuine, evidenced real-world data-capture advantage.
+
+**Scale.** Per KEENON's own CES 2026 announcement and corroborating trade coverage, the company has deployed its products and solutions in **over 600 cities and regions worldwide**, with **global shipments exceeding 100,000 units**, after 16 years of continuous commercialization ([PR Newswire / CES 2026](https://www.prnewswire.com/news-releases/keenon-robotics-showcases-humanoid-robot-at-ces-2026-for-first-time-and-unveils-first-robotic-lawn-mower-expanding-its-robotic-services-into-new-realms-302654158.html); [Interesting Engineering](https://interestingengineering.com/ces-2026/keenon-debuts-humanoid-butler-us)). According to IDC's 2025 market-share data cited in coverage of KEENON's April 2026 Interclean Amsterdam showcase and its June 2026 Global Connect Show appearance, KEENON holds the **No. 1 global market share in commercial service robots for the third consecutive year** ([Yanko Design](https://www.yankodesign.com/2026/06/15/keenon-humanoid-pours-drinks-at-gcs-2026-100000-others-run-hotels/); [PR Newswire / Interclean](https://www.prnewswire.com/news-releases/keenon-robotics-showcased-autonomous-cleaning-innovation-at-interclean-amsterdam-2026-302742234.html)).
+
+**Product breadth.** The fleet spans the DinerBot/T-series (delivery, with the T9 model alone reportedly active across more than 25,000 restaurants and 10,000 hotels in 60+ countries per reseller documentation — see [Robots International](https://www.robotsinternational.com/Keenon-DINERBOT-T9.htm), a third-party distributor page whose figures are not independently audited), the ButlerBot line, the KleenBot C20/C30/C40/C55 cleaning series, the KEENMOW autonomous lawn mower, an M-series medical-logistics robot, and the XMAN humanoid line (the wheeled XMAN-R1 and the bipedal, 43-degree-of-freedom XMAN-F1, rated at 275 TOPS of onboard AI compute).
+
+**The foundation model.** In 2025, KEENON launched **KOM 2.0 (KEENON Operator Model 2.0)**, described by the company as the world's first self-developed vision-language-action (VLA) model purpose-built for the service industry, combining a "K-Mind" perception/reasoning component, a "K-Act" execution component, contextual learning, and role-specific "ProS" tuning for verticals like hospitality ([KEENON official newsroom](https://www.keenon.com/en); [PR Newswire / Shangri-La deployment](https://www.prnewswire.com/apac/news-releases/keenon-humanoid-robot-joins-hotel-workforce-pioneering-worlds-first-general-purpose--special-purpose-robot-collaboration-model-302599869.html)). TechNode's reporting describes KOM 2.0 as trained on "massive amounts of scenario data" accumulated from KEENON's deployed base, with few-shot adaptation to new environments built in ([TechNode](https://technode.com/2025/10/31/keenon-robotics-drives-intelligent-transformation-of-service-robot-technology/)).
+
+**Concrete, named deployments — not demos.** In October 2025, KEENON's XMAN-R1 went into live operation at the Shangri-La Traders Hotel, Shanghai Hongqiao Airport, in what the company calls the first commercial "General-Purpose + Special-Purpose" robot collaboration model, covering front-desk greeting, room cleaning, delivery, and luggage handling in a single integrated deployment ([PR Newswire](https://www.prnewswire.com/apac/news-releases/keenon-humanoid-robot-joins-hotel-workforce-pioneering-worlds-first-general-purpose--special-purpose-robot-collaboration-model-302599869.html)). Pilot deployments of the bipedal XMAN-F1 with Shangri-La properties and Walmart logistics operations have also been reported ([TechNode](https://technode.com/2025/10/31/keenon-robotics-drives-intelligent-transformation-of-service-robot-technology/)). At the June 2026 Global Connect Show, KEENON publicly demonstrated XMAN-R1 performing beverage service and snack distribution to live foot traffic ([Yanko Design](https://www.yankodesign.com/2026/06/15/keenon-humanoid-pours-drinks-at-gcs-2026-100000-others-run-hotels/)).
+
+**A note on funding and revenue figures.** ZoomInfo's aggregated profile cites a $200 million Series D round (with SoftBank Vision Fund 2 named as a participant) and an annual revenue figure near $797 million, alongside roughly 1,000 employees ([ZoomInfo](https://www.zoominfo.com/c/keenon-robotics/471410453)). ZoomInfo itself flags that this summary is AI-aggregated and "may contain inaccuracies" — KEENON is privately held and does not publish audited financial statements, so these figures should be treated as directionally indicative rather than verified.
+
+**What this means for the flywheel claim.** A real data flywheel requires (a) enough deployed units, (b) operating in enough diverse, unscripted real-world settings, (c) for long enough, to generate the volume and variety of interaction data a foundation model needs. On all three axes, KEENON's specialized-robot fleet — accumulated since 2010 across 60+ countries — has a substantial, multi-year head start that the XMAN humanoid line is now able to bootstrap from, rather than starting without any prior deployment substrate.
+
+---
+
+## 5. Tesla Optimus — Deployment Reality as of Mid-2026
+
+Tesla's own technical narrative for Optimus is an explicit data flywheel, and it is worth describing accurately before comparing it.
+
+**Tesla's stated approach.** Tesla has shifted Optimus training away from motion-capture teleoperation toward first-person human video captured via a helmet-and-backpack camera rig, with a stated ambition to extend learning to third-party internet video; it inherits architecture lessons from the 2023 transition of Full Self-Driving to a single end-to-end neural network (FSD v12, replacing roughly 300,000 lines of explicit driving code); it trains in simulation using video-generation models functioning as "neural physics engines"; and it uses reinforcement learning for locomotion and balance refinement ([optimusk.blog training breakdown](https://optimusk.blog/blog/ai-training-for-tesla-optimus/)). The "fleet self-play" framing — every unit's newly learned skill becoming available to the rest of the fleet — is described across multiple independent trade outlets as Tesla's central flywheel mechanic ([The Robotic Life](https://theroboticlife.com/tesla-optimus-gen-3-learning/); [iFactory](https://ifactoryapp.com/industries/automotive-manufacturing/tesla-optimus-fremont-gen-3-humanoid-2026)).
+
+**Where the units actually are.** Deployment is confined to two sites: Tesla's Fremont, California factory and Giga Texas in Austin. Tasks performed include sorting 4680-format battery cells, parts kitting, and visual quality inspection ([optimusk.blog factory-deployment tracker](https://optimusk.blog/blog/tesla-optimus-factory-deployment/)).
+
+**A direct contradiction worth flagging.** Trade coverage from January 2026 reported "over 1,000 Optimus Gen 3 humanoid robots now working" across Tesla's factories ([Programming Helper Tech](https://www.programming-helper.com/tech/tesla-optimus-gen3-production-deployment-2026-factory-robots-revolution)). On Tesla's own Q4 2025 earnings call (January 28, 2026), however, Elon Musk stated that Optimus is "still in R&D phase" and "not in usage in our factories in a material way" — directly at odds with the higher unit-count claims circulating in the same period ([Electrek](https://electrek.co/2026/01/28/musk-admits-no-optimus-robots-are-doing-useful-work-at-tesla-after-claiming-otherwise/)). Other contemporaneous coverage frames Musk's position more narrowly as "primarily for learning and data collection rather than performing productive tasks" ([New Market Pitch deployment tracker](https://newmarketpitch.com/blogs/news/humanoid-robotics-optimus-deployment-tracker); [optimusk.blog](https://optimusk.blog/blog/tesla-optimus-factory-deployment/)). Independent estimates as of May 2026 put internal-use units in the **low hundreds**, not the thousands ([Robozaps Gen 2 review](https://blog.robozaps.com/b/tesla-optimus-gen-2-review)).
+
+**A documented record of missed targets.** Tesla's own public commitments have slipped repeatedly: "production ready by 2023," "thousands in factories by end of 2023," "several thousand in 2025" (actual figure: hundreds to low thousands, a greater than 90% miss against the high end of guidance), and a Gen 3 unveil originally slated for Q1 2026, delayed to "the middle of this year" as of Tesla's April 22, 2026 Q1 earnings call ([New Market Pitch](https://newmarketpitch.com/blogs/news/humanoid-robotics-optimus-deployment-tracker); [Electrek](https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/)).
+
+**Where production stands right now.** Tesla ended Model S and Model X production in early May 2026 specifically to retool the Fremont line for Optimus; as of the April 2026 earnings call, Optimus production at that retooled line was targeted to begin in "late July or August" 2026 — meaning that, as of this writing on June 21, 2026, Tesla's dedicated Optimus production line **has not yet started running**. A second, larger Optimus facility at Giga Texas, aimed at an eventual 10 million units per year, is under construction but not operating ([Electrek](https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/); [Tesla's own FY2025 shareholder letter](https://www.sec.gov/Archives/edgar/data/0001318605/000162828026003837/exhibit991.htm), which states a planned start of production "before the end of 2026" with an eventual planned capacity of 1 million robots per year).
+
+**Competitive context cited by independent trackers.** Multiple industry trackers note that, on verified real-world deployment specifically, several competitors are presently ahead of Tesla: Figure AI reports more than 1,250 operational hours inside a BMW plant that has produced over 30,000 vehicles with robot assistance; Boston Dynamics is shipping its electric Atlas humanoid to Hyundai facilities; and Agility Robotics' Digit is already commercially deployed in customer warehouses, including a Toyota plant in Ontario ([New Market Pitch](https://newmarketpitch.com/blogs/news/humanoid-robotics-optimus-deployment-tracker); [Electrek](https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/)).
+
+---
+
+## 6. Head-to-Head: Data-Flywheel Mechanics Compared
+
+| Dimension | KEENON (manufacturer) | Tesla Optimus |
+|---|---|---|
+| Deployment environment | Commercial and public: restaurants, hotels, hospitals, retail, logistics, homes, across 60+ countries | Internal only: two Tesla-owned factories (Fremont, Giga Texas) |
+| Cumulative fleet | 100,000+ units shipped since 2010 | Low hundreds to ~1,000 units (contested even internally), since roughly 2024 |
+| Foundation model status | KOM 2.0 (VLA) — already developed, shipped, and field-revised | FSD-derived stack and in-house training pipeline; no shipped humanoid-specific foundation model yet disclosed |
+| Task diversity captured | Food delivery, room service, hotel concierge, retail, medical logistics, cleaning, lawn care, beverage service | Battery-cell sorting, parts kitting, visual inspection — a narrow, single-site task set |
+| Independent verification | IDC market-share ranking (No. 1, three consecutive years); no public unit-level telemetry | None published; even the *existence* of "material" current usage is disputed by Tesla's own CEO across adjacent public statements |
+| Disclosed revenue tied to the fleet | KEENON: directionally reported (unaudited, ZoomInfo-aggregated) ~$797M; AIBT (the distributor): $2.2K TTM | Not applicable — Optimus has no commercial revenue; it is pre-commercial |
+| Time-in-market for flywheel compounding | 16 years (2010–2026) for the specialized fleet that now feeds KOM 2.0 | Roughly 2 years (2024–2026); the dedicated mass-production line had not yet started as of June 2026 |
+| Production-line status as of June 2026 | Mature, multi-factory manufacturing already running for years | Fremont line retooling in progress; production targeted to begin "late July/August" 2026; Giga Texas facility still under construction |
+
+---
+
+## 7. So Does "AIBT and KEENON" Have the Advantage?
+
+The honest answer depends entirely on which entity is being asked about.
+
+**KEENON vs. Tesla Optimus, on real-world data-capture maturity specifically: yes**, on the weight of the evidence above. KEENON's multi-year, multi-country commercial fleet is the kind of large, diverse, unscripted-environment data substrate that a service-robot VLA model needs, and KEENON has already shipped one (KOM 2.0). This is not a KEENON-only claim — it is the same conclusion independent robotics trackers reach when comparing Tesla's factory-confined Optimus program to competitors already operating commercially (Figure AI at BMW, Agility Robotics at customer warehouses, Boston Dynamics at Hyundai).
+
+**On the humanoid-specific sub-comparison (XMAN-R1/F1 vs. Optimus):** both programs are genuinely early-stage. KEENON's humanoid line has the advantage of inheriting deployment infrastructure, named hospitality and retail accounts, and the KOM 2.0 substrate built from its non-humanoid fleet. Optimus has the advantage of Tesla's automotive-scale compute and capital base and an explicit, technically coherent training design, but lacks an equivalent non-humanoid fleet to bootstrap from, and as of mid-2026 has not yet started dedicated mass production. Neither company has published an audited, unit-level humanoid deployment count.
+
+**AIBT (the stock) vs. Tesla: no**, not in the sense the promotional framing implies. AIBT does not manufacture robots, does not own or operate KEENON's fleet-data infrastructure or its KOM 2.0 model, and has disclosed no unit counts, uptime data, or task-performance telemetry from its own Israel or (pending) Jamaica deployments. Whatever data-flywheel advantage exists in this story belongs to KEENON as a private manufacturer — not to the AIBT ticker, which is better described as a small, capital-constrained regional distribution and licensing vehicle layered on top of KEENON's hardware.
+
+---
+
+## 8. Caveats Material to Anyone Evaluating This Story
+
+- AIBotics' Letter of Intent to acquire NovaCore Labs is **non-binding** and has already slipped one full quarter past its original target close date; as of the most recent public update it remained unclosed, with no financial terms disclosed.
+- No AIBT press release reviewed for this document discloses a specific unit count, fleet-utilization rate, or customer-satisfaction/task-completion metric from any of its KEENON-robot deployments.
+- KEENON is privately held; its scale figures (100,000+ units, 60+ countries) come from the company's own announcements and trade-press coverage rather than from audited regulatory filings, and its cited funding/revenue figures are explicitly flagged by at least one aggregator as AI-generated and potentially inaccurate.
+- Tesla's own public statements about current Optimus utilization are internally inconsistent — coverage citing "1,000+ units working" sits alongside Musk's own January 2026 statement that the program is "not in usage in our factories in a material way."
+- AIBT's SEC filings disclose going-concern doubt, a current ratio of 0.06, heavy losses, and substantial share dilution; the stock has lost over 92% of its value over the trailing year.
+- This document is a research and sourcing exercise, not financial or investment advice; the author is not a licensed financial advisor, and readers should consult primary SEC filings (10-K, 10-Q, NT filings) and qualified professionals before making any investment decision involving any security mentioned here.
+
+---
+
+## References
+
+**AIBT / AIBotics / Ehave**
+- [AIBT Stock Price, News & Analysis — StockTitan](https://www.stocktitan.net/overview/AIBT/)
+- [AIBotics Signs LOI to Acquire NovaCore Labs and Partners with KEENON — Investing News Network](https://investingnews.com/aibotics-signs-loi-to-acquire-google-partner-novacore-labs-and-partners-with-keenon-robotics-to-bring-xman-and-service-robots-to-jamaica-and-the-caricom/)
+- [KEENON Robotics Sends First Shipment of Robots to Israel — GlobeNewswire](https://www.globenewswire.com/news-release/2025/10/14/3166322/0/en/KEENON-Robotics-Sends-First-Shipment-of-Robots-to-Israel-Post-War-Under-Agreement-with-AIBotics-and-Ignites-Middle-East-Robotics-Rollout.html)
+- [Same release — Manila Times syndication](https://www.manilatimes.net/2025/10/14/tmt-newswire/globenewswire/keenon-robotics-sends-first-shipment-of-robots-to-israel-post-war-under-agreement-with-aibotics-and-ignites-middle-east-robotics-rollout/2200528)
+- [AIBotics Ushers in a New Era — Service Robotics Arrive in Tel Aviv — Nasdaq](https://www.nasdaq.com/press-release/aibotics-ushers-new-era-intelligent-service-robotics-arrive-tel-aviv-redefining-human)
+- [Israeli Cannibble Food-Tech and AIBotics Enter Israel with KEENON — StockTitan](https://www.stocktitan.net/news/AIBT/israeli-cannibble-food-tech-and-ai-botics-enter-israel-with-global-kuk5sj1rc8ul.html)
+- [Google Partner NovaCore Labs and AIBotics Advance Acquisition — GlobeNewswire](https://www.globenewswire.com/news-release/2026/04/30/3284915/0/en/Google-Partner-NovaCore-Labs-and-AIBotics-Advance-Acquisition-and-Expand-Robot-Deployment-Across-Jamaica.html)
+- [Same news, with FY2025 net-loss figure — StockTitan](https://www.stocktitan.net/news/AIBT/google-partner-nova-core-labs-and-ai-botics-advance-acquisition-and-xvamljqk7h7i.html)
+- [NovaCore Labs in Acquisition Talks — Jamaica Observer](https://www.jamaicaobserver.com/2026/05/08/novacore-labs-acquisition-talks/)
+- [AIBotics Enters Strategic AI Partnership and JV with ARYA AI Labs — GlobeNewswire](https://www.globenewswire.com/news-release/2026/05/19/3297667/0/en/AIBotics-Enters-Strategic-AI-Partnership-and-Joint-Venture-with-ARYA-AI-Labs-to-Advance-Next-Generation-Deterministic-World-Models.html)
+- [Same announcement — StreetInsider](https://www.streetinsider.com/Corporate+News/AIBotics+partners+with+ARYA+AI+Labs+for+deterministic+AI+technology/26518839.html)
+
+**KEENON Robotics**
+- [KEENON Robotics — official global newsroom](https://www.keenon.com/en)
+- [KEENON Robotics Targets Pro Automation Infrastructure Play — AInvest](https://www.ainvest.com/news/keenon-robotics-targets-pro-automation-infrastructure-play-escape-hardware-trap-2604/)
+- [KEENON Robotics Showcased Autonomous Cleaning Innovation at Interclean Amsterdam 2026 — PR Newswire](https://www.prnewswire.com/news-releases/keenon-robotics-showcased-autonomous-cleaning-innovation-at-interclean-amsterdam-2026-302742234.html)
+- [KEENON Robotics Showcases Humanoid Robot at CES 2026 — PR Newswire](https://www.prnewswire.com/news-releases/keenon-robotics-showcases-humanoid-robot-at-ces-2026-for-first-time-and-unveils-first-robotic-lawn-mower-expanding-its-robotic-services-into-new-realms-302654158.html)
+- [Keenon advances home robotics with autonomous mower, humanoid robot — Interesting Engineering](https://interestingengineering.com/ces-2026/keenon-debuts-humanoid-butler-us)
+- [DINERBOT T9 product/ROI page — Robots International](https://www.robotsinternational.com/Keenon-DINERBOT-T9.htm)
+- [Keenon Robotics — company profile — ZoomInfo](https://www.zoominfo.com/c/keenon-robotics/471410453)
+- [Keenon Humanoid Robot Joins Hotel Workforce — PR Newswire](https://www.prnewswire.com/apac/news-releases/keenon-humanoid-robot-joins-hotel-workforce-pioneering-worlds-first-general-purpose--special-purpose-robot-collaboration-model-302599869.html)
+- [KEENON Robotics drives intelligent transformation of service robot technology — TechNode](https://technode.com/2025/10/31/keenon-robotics-drives-intelligent-transformation-of-service-robot-technology/)
+- [KEENON Humanoid Pours Drinks at GCS 2026, 100,000 Others Run Hotels — Yanko Design](https://www.yankodesign.com/2026/06/15/keenon-humanoid-pours-drinks-at-gcs-2026-100000-others-run-hotels/)
+
+**Tesla Optimus**
+- [Tesla's Optimus Gen 3 Goes Into Production — Programming Helper Tech](https://www.programming-helper.com/tech/tesla-optimus-gen3-production-deployment-2026-factory-robots-revolution)
+- [Tesla Optimus Deployment Tracker (2026) — New Market Pitch](https://newmarketpitch.com/blogs/news/humanoid-robotics-optimus-deployment-tracker)
+- [Tesla Optimus Capabilities: What Can It Do? (2026) — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-capabilities/)
+- [Tesla Optimus Factory Deployment: 2025–2026 Status — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-factory-deployment/)
+- [Tesla Optimus Factory Construction Begins at Giga Texas — Tesery](https://www.tesery.com/blogs/news/teslas-robotic-future-takes-form-construction-of-massive-optimus-factory-begins-at-giga-texas)
+- [Tesla Optimus Gen 2 Review: Specs, Price, Factory Use — Robozaps](https://blog.robozaps.com/b/tesla-optimus-gen-2-review)
+- [Tesla Optimus Gen 3 Explained: Robots That Learn by Watching — The Robotic Life](https://theroboticlife.com/tesla-optimus-gen-3-learning/)
+- [Tesla Optimus at Fremont: Gen 3 Deployment & Mass Production Update — iFactory](https://ifactoryapp.com/industries/automotive-manufacturing/tesla-optimus-fremont-gen-3-humanoid-2026)
+- [AI Training for Tesla Optimus Explained (2026) — optimusk.blog](https://optimusk.blog/blog/ai-training-for-tesla-optimus/)
+- [Tesla Optimus Gen 3 Is Almost Here — InteliDroid](https://intelidroid.com/2026/04/08/tesla-optimus-gen-3-reveal-mass-production-2026/)
+- [Embodied AI Data Collection: Teleoperation Guide (2026) — evsint.com](https://www.evsint.com/embodied-ai-data-collection-teleoperation-sim-to-real-2026/)
+- [Musk admits no Optimus robots are doing "useful work" at Tesla — Electrek](https://electrek.co/2026/01/28/musk-admits-no-optimus-robots-are-doing-useful-work-at-tesla-after-claiming-otherwise/)
+- [Tesla Optimus Production Timeline 2026 [Updated] — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-production-timeline/)
+- [Tesla pushes Optimus V3 reveal later this year — again — Electrek](https://electrek.co/2026/04/22/tesla-optimus-production-fremont-model-sx-line/)
+- [Tesla, Inc. — FY2025 Shareholder Letter / Form 8-K — SEC EDGAR](https://www.sec.gov/Archives/edgar/data/0001318605/000162828026003837/exhibit991.htm)
+- [Tesla Optimus V3 Production Starts This Summer: Full Timeline — Basenor](https://www.basenor.com/blogs/news/tesla-optimus-v3-production-starts-this-summer-full-timeline)
+- [Tesla Optimus Gen 3: Specs, Release Date & Price (2026) — optimusk.blog](https://optimusk.blog/blog/tesla-optimus-gen-3/)
